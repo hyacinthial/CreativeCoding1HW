@@ -1,0 +1,8 @@
+CLI (Command Line Interface) follows the use of written commands in a terminal or console window, while GUI (Graphical User Interface) follows the use of graphics, (images, icons, etc.) each directly interacting with the operating system.
+
+When using CLI the user must know the certain command needed for the function they want to preform, so it oftens comes down to memorizing and understanding many different command lines. GUI is less complicated, often being a simple point and click.
+
+Many differences between the two are centered around speed, quality, and ease of use; CLI functions much faster than GUI, but is more difficult to use. GUI is very convienent, especially when visuals are there to guide the user. With simplicity comes less percise actions, while commands in CLI are consistent in the same resulting function. Though, to use CLI, most of the user's work has to take place in the command prompt. On the other hand, GUI is usable nearly everywhere. 
+
+CLI requires only a keyboard
+GUI usually requires a keyboard and mouse, because a pointing device is needed.
